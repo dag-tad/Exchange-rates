@@ -6,6 +6,7 @@ This project is a mobile application developed using React Native to enable the 
     A. https://api.apilayer.com/fixer/symbols
 # Environment variables
 To execute this project, we need to create .env file and add the followning environment variables
+
 APP_NAME=Live Exchange Rates
 BASE_URL=https://api.apilayer.com/fixer
 DEV_API_KEY=cJWuCrJwDAF0z5nXoo6Dia0A9kSXMRyV
