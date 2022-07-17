@@ -11,6 +11,6 @@ APP_NAME=Live Exchange Rates
 
 BASE_URL=https://api.apilayer.com/fixer
 
-DEV_API_KEY=cJWuCrJwDAF0z5nXoo6Dia0A9kSXMRyV
+DEV_API_KEY=your dev api key
 
-PROD_API_KEY=cJWuCrJwDAF0z5nXoo6Dia0A9kSXMRyV
+PROD_API_KEY=your prod api key
